@@ -5,6 +5,5 @@ int main(void) {
     printf("second update");
     printf("third update");
     printf("forth update");
-    printf("fifth update");
     return 0;
 }
